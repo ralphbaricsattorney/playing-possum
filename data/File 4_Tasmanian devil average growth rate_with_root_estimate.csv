@@ -1,0 +1,19 @@
+specimen_ID,labelling_event,days,cummulative_end_length_from_base_mm,growth_rate_between_label_events,pluck_cut,cummulative_length_from_base_withrootestimate,growth_rate_between_label_events_withrootestimate
+A70672,,0,0,NA,Cut,0,NA
+A70672,4th,92,19,0.21,Cut,22.8,0.25
+A70674,,0,0,NA,Cut,0,NA
+A70674,4th,92,23.6,0.26,Cut,27.4,0.3
+A70674,3rd ,183,70.6,0.52,Cut,74.4,0.52
+A80040,,0,0,NA,Plucked,0,NA
+A80040,4th,91,19.5,0.21,Plucked,19.5,0.21
+A80040,3rd ,182,51.5,0.35,Plucked,51.5,0.35
+A80040,2nd,274,123.5,0.78,Plucked,123.5,0.78
+A80041,,0,0,NA,Plucked,0,NA
+A80041,4th,91,28,0.31,Plucked,28,0.31
+A80041,3rd ,182,79,0.56,Plucked,79,0.56
+A80515,,0,0,NA,Plucked,0,NA
+A80515,4th,92,15,0.16,Plucked,15,0.16
+A80515,3rd ,182,81,0.73,Plucked,81,0.73
+A80516,,0,0,NA,Plucked,0,NA
+A80516,4th,98,35,0.36,Plucked,35,0.36
+A80516,3rd ,188,124,0.99,Plucked,124,0.99
